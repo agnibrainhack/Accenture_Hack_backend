@@ -12,7 +12,7 @@ application.config['MONGO_DBNAME'] = 'acc_comp_nik'
 application.config['MONGO_URI'] = ''
 
 
-# mongodb://<dbuser>:<dbpassword>@ds113452.mlab.com:13452/acc_comp_nik
+
 
 class Token_use():
     token_user = 1010
