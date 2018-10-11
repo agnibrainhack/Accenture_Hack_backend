@@ -200,7 +200,8 @@ def get_prescription_list():
 
     return jsonify({'ecglist': output, 'error': error})
 
-
+#this code was designed for hacktober fest
+#support open source cause this is the future
 
 if __name__ == '__main__':
     application.run(debug=True)
